@@ -43,6 +43,8 @@ P(no)= probability of no
 Gini index is a measure of impurity or purity used while creating a decision tree in the CART(Classification and Regression Tree) algorithm.
 An attribute with the low Gini index should be preferred as compared to the high Gini index.
 It only creates binary splits, and the CART algorithm uses the Gini index to create binary splits.
+
+
 Gini index can be calculated using the below formula:
 Gini Index= 1- ∑jPj2
 
