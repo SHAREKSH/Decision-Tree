@@ -48,6 +48,8 @@ Where,
 S= Total number of samples
 P(yes)= probability of yes
 P(no)= probability of no
+
+
 2. Gini Index:
 Gini index is a measure of impurity or purity used while creating a decision tree in the CART(Classification and Regression Tree) algorithm.
 An attribute with the low Gini index should be preferred as compared to the high Gini index.
